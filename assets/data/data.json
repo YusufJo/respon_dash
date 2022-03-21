@@ -1,0 +1,86 @@
+[
+  {
+    "storage": "Local Storage",
+    "icon": "hard_disk.svg",
+    "files": [
+      {
+        "name": "project_x.ppt",
+        "type": "Document",
+        "size": 3500,
+        "last_modified": "2020-01-12T13:12:22.000"
+      },
+      {
+        "name": "project_y.ppt",
+        "type": "Document",
+        "size": 1250,
+        "last_modified": "2020-01-13T05:07:56.000"
+      },
+      {
+        "name": "project_z.ppt",
+        "type": "Document",
+        "size": 1024,
+        "last_modified": "2020-01-16T07:17:02.000"
+      },
+      {
+        "name": "main.dart",
+        "type": "Document",
+        "size": 123,
+        "last_modified": "2020-01-20T01:09:02.000"
+      },
+      {
+        "name": "server.py",
+        "type": "Document",
+        "size": 12,
+        "last_modified": "2020-01-23T07:17:02.000"
+      }
+    ]
+  },
+  {
+    "storage": "Google Drive",
+    "icon": "google_drive.svg",
+    "files": [
+      {
+        "name": "Dog.png",
+        "type": "Media",
+        "size": 6000,
+        "last_modified": "2020-02-12T13:12:22.000"
+      },
+      {
+        "name": "my_sketch.fig",
+        "type": "Figma",
+        "size": 14550,
+        "last_modified": "2020-01-13T05:07:56.000"
+      },
+      {
+        "name": "birthday.mp4",
+        "type": "Media",
+        "size": 50340,
+        "last_modified": "2020-01-16T07:17:02.000"
+      }
+    ]
+  },
+  {
+    "storage": "One Drive",
+    "icon": "one_drive.svg",
+    "files": [
+      {
+        "name": "invoice.png",
+        "type": "Media",
+        "size": 6000,
+        "last_modified": "2020-02-12T13:12:22.000"
+      },
+      {
+        "name": "How to Program.pdf",
+        "type": "PDF",
+        "size": 1309,
+        "last_modified": "2020-01-13T05:07:56.000"
+      },
+      {
+        "name": "birthday.mp4",
+        "type": "Media",
+        "size": 50340,
+        "last_modified": "2020-01-16T07:17:02.000"
+      }
+    ]
+  }
+]
